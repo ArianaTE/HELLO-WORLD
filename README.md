@@ -12,4 +12,4 @@ About me: I like programming {}, I am interested in Artificial Intelligence spec
 _Sobre mí: Me gusta programar {}, estoy interesada en la Inteligencia Artificial especificamente en el Marchine Learning. 
                Asimismo me encuentro interesada en el Big Data :)             
                     Me apasiona la ciencia y la astronomía. Me gusta el PAN, amo mi país Mexico.
-                    Saludos Comunidas!
+                    Saludos Comunidad!
