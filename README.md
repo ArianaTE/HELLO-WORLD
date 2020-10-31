@@ -1,2 +1,2 @@
-# HELLO-WORLD
-Just another repository
+# HELLO-COMMUNITY
+Yes, this is just another repository
